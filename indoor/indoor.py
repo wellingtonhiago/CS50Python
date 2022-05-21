@@ -1,3 +1,1 @@
-word = input()
-word_lower = word.lower()
-print(word_lower)
+print(input("ESCREVA ALGO COM LETRAS MAIÚSCULAS: ").lower())
